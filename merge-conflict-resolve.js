@@ -1,3 +1,6 @@
 function name(params) {
-    const a = 'a'
+
+=======
+    const a = 'b'
+>>>>>>> dev1
 }

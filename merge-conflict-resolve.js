@@ -1,3 +1,3 @@
 function name(params) {
-    const a = 'b'
+    const a = 'bx'
 }
